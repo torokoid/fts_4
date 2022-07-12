@@ -44,7 +44,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://torokoid.github.io/fts/20180614_01.JPG) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://torokoid.github.io/fts_4/20220711_013.JPG) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
 </style>
@@ -54,32 +54,54 @@ body::before {
 </head>
 <body>
 <p><a href="https://torokoid.github.io/fts_home">Home</a>><a href="https://torokoid.github.io/fts">同窓会</a>><a href="https://torokoid.github.io/fts_2">Teams同窓会</a>><a href="https://torokoid.github.io/fts_3">Teams同窓会_2>リアル同窓会_2</p>
-<h1><span class="yellow"><marquee behavior="alternate">!!! 2022年7月11日(月)リアル安否確認会の記録＠＊＊＊ !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="alternate">!!! 2022年7月11日(月)リアル安否確認会の記録＠神田「岬」 !!!</marquee></span></h1>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 	
-<h3><span class="white">開始早々、ブレイクアウトルームに迷い込んだところ</span></h3>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkiFWWNaSvo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AB3waD-Da9E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<a href="20210806_001.JPG" data-lightbox="abc"><img src="20210806_001.JPG" alt="サンプル画像" width="900" /></a>
-	
-<iframe width="560" height="315" src="https://www.youtube.com/embed/J9lmYktr3C8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LvZOlk5iJ0s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Y2LfTFNDTOk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tUQdkzhlcng" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<a href="20210806_002.JPG" data-lightbox="abc"><img src="20210806_002.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20210806_003.JPG" data-lightbox="abc"><img src="20210806_003.JPG" alt="サンプル画像" width="900" /></a>
-<h3><span class="white">秋月さん、庭石報告・・・通信トラブルにつき別途・・・</span></h3>
-<a href="20210806_004.JPG" data-lightbox="abc"><img src="20210806_004.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20210806_005.JPG" data-lightbox="abc"><img src="20210806_005.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20210806_006.JPG" data-lightbox="abc"><img src="20210806_006.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20210806_007.JPG" data-lightbox="abc"><img src="20210806_007.JPG" alt="サンプル画像" width="900" /></a>
-<h3><span class="white">訃報連絡、岡さん、之さん</span></h3>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2gzJLLf6h_0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<h3><span class="white">最後に皆で黙祷</span></h3>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5Izc_paZ_28" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a href="20220711_001.JPG" data-lightbox="abc"><img src="20220711_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20220711_002.JPG" data-lightbox="abc"><img src="20220711_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20220711_003.JPG" data-lightbox="abc"><img src="20220711_003.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20220711_004.JPG" data-lightbox="abc"><img src="20220711_004.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20220711_005.JPG" data-lightbox="abc"><img src="20220711_005.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20220711_006.JPG" data-lightbox="abc"><img src="20220711_006.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20220711_007.JPG" data-lightbox="abc"><img src="20220711_007.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20220711_008.JPG" data-lightbox="abc"><img src="20220711_008.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20220711_009.JPG" data-lightbox="abc"><img src="20220711_009.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20220711_010.JPG" data-lightbox="abc"><img src="20220711_010.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20220711_011.JPG" data-lightbox="abc"><img src="20220711_011.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20220711_012.JPG" data-lightbox="abc"><img src="20220711_012.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20220711_013.JPG" data-lightbox="abc"><img src="20220711_013.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20220711_014.JPG" data-lightbox="abc"><img src="20220711_014.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20220711_015.JPG" data-lightbox="abc"><img src="20220711_015.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20220711_016.JPG" data-lightbox="abc"><img src="20220711_016.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20220711_017.JPG" data-lightbox="abc"><img src="20220711_017.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20220711_018.JPG" data-lightbox="abc"><img src="20220711_018.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20220711_019.JPG" data-lightbox="abc"><img src="20220711_019.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20220711_020.JPG" data-lightbox="abc"><img src="20220711_020.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20220711_021.JPG" data-lightbox="abc"><img src="20220711_021.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20220711_022.JPG" data-lightbox="abc"><img src="20220711_022.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20220711_023.JPG" data-lightbox="abc"><img src="20220711_023.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20220711_024.JPG" data-lightbox="abc"><img src="20220711_024.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20220711_025.JPG" data-lightbox="abc"><img src="20220711_025.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20220711_026.JPG" data-lightbox="abc"><img src="20220711_026.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20220711_027.JPG" data-lightbox="abc"><img src="20220711_027.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20220711_028.JPG" data-lightbox="abc"><img src="20220711_028.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20220711_029.JPG" data-lightbox="abc"><img src="20220711_029.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20220711_030.JPG" data-lightbox="abc"><img src="20220711_030.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20220711_031.JPG" data-lightbox="abc"><img src="20220711_031.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20220711_032.JPG" data-lightbox="abc"><img src="20220711_032.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20220711_033.JPG" data-lightbox="abc"><img src="20220711_033.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20220711_034.JPG" data-lightbox="abc"><img src="20220711_034.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20220711_035.JPG" data-lightbox="abc"><img src="20220711_035.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20220711_036.JPG" data-lightbox="abc"><img src="20220711_036.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20220711_037.JPG" data-lightbox="abc"><img src="20220711_037.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20220711_038.JPG" data-lightbox="abc"><img src="20220711_038.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20220711_039.JPG" data-lightbox="abc"><img src="20220711_039.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20220711_040.JPG" data-lightbox="abc"><img src="20220711_040.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20220711_041.JPG" data-lightbox="abc"><img src="20220711_041.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20220711_042.JPG" data-lightbox="abc"><img src="20220711_042.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20220711_043.JPG" data-lightbox="abc"><img src="20220711_043.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20220711_044.JPG" data-lightbox="abc"><img src="20220711_044.JPG" alt="サンプル画像" width="900" /></a>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
