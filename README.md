@@ -119,5 +119,5 @@ body::before {
 
 <!-- フッタ -->
  <footer>
- Copyright 2022/07/12 S.Hada
+ <p>Copyright 2022/07/12 S.Hada</p>
  </footer>
