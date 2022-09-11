@@ -103,6 +103,167 @@ body::before {
 <a href="20220711_043.JPG" data-lightbox="abc"><img src="20220711_043.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20220711_044.JPG" data-lightbox="abc"><img src="20220711_044.JPG" alt="サンプル画像" width="900" /></a>
 
+<br><br><br><br>
+
+<p>この会合の後、クラスター発生しました。<br>以下、杉本さんからのメールとその続報です。</p>
+
+<p>
+皆さん
+ 
+ご連絡です。
+ 
+朔日４回目のワクチン接種をして宇都宮にきましたが、喉の痛みと熱が出たのでインターパーク倉持呼吸器内科でPCR検査を受けました。
+ 
+結果、陽性とのことです。
+ 
+保健所からの連絡待ちですが、まずは一報まで。
+ 
+杉本
+</p>
+
+<br><br>
+
+<p>
+皆様
+
+お元気ですか？山本です。
+生存確認会に出席できず残念です。その後のメールで﻿
+加藤さん・杉本さん・秋月さん・里村さん・渋川さん
+が陽性であったり発熱や喉のイガイガとの事でした。
+その後の容体はいかがですか？また、その他の皆様も
+無事ですか？本当に生存確認の心配してます。
+
+@私はコロナは大丈夫です。
+　脚は全く良くなりません。杖を使って3分歩いて5分休憩です。そんな状況ですが、先週末に以前から予約していた石垣島に行ってきました。
+空港・ホテル共に車椅子の旅でした。空港では人生で初めて「お手伝いが必要な方」として搭乗口まで
+車椅子を押していただき、最初に搭乗しました。
+石垣島は晴天でしたがホテル敷地から出ることはなく、ディナーもルームサービスで済ませました。
+竹富島を楽しみにしていたカミさんもガックリでした。車椅子視点で脚の不自由な方々の経験でした。
+脚の具合が一向に良くならないので、本日はMRI検査です。
+
+皆様もコロナと熱中症にお気をつけください。
+
+山本
+</p>
+
+<br><br>
+
+<p>
+皆さま
+ 
+よろしくない傾向ですね
+お大事にされてください
+ 
+私は今のところ異常はないです
+ですが、私も検査しようと思い、抗原検査キットを購入しようと近在の薬局を回ったのですが、「売り切れ」とのことでした
+ 
+別で入手し、検査したいと思います
+判明次第、ご連絡します
+よろしくお願いします
+ 
+田村
+
+
+2022/07/14 17:44、里村昌史 <masashi.satomura.01@gmail.com>のメール:
+
+﻿
+みなさま
+ 
+なんとなく喉がイガイガしてきました
+熱はありません
+明日の朝PCR検査予約したので結果は後日お知らせします
+ 
+結果が出るまでトライアスロンの練習はお休みにし、おとなしくすることにします
+ 
+さとむら
+ 
+2022年7月14日(木) 17:40 Masayo Arai (荒井 雅代) <masayo_arai@jp.honda>:
+杉本さん　秋月さん
+ 
+お大事になさってください。
+私は、
+1次会：秋月さんの隣
+2次会：杉本さんの隣
+ 
+でしたが、全然、元気です！
+先ほど体温を測りましたが35.8度でした。
+六本木の会議室はピエピエです。
+寒―い。
+ 
+荒井雅代
+ 
+From: Takero Shibukawa (澁川 岳郎) <takero_shibukawa@jp.honda> 
+Sent: Thursday, July 14, 2022 5:04 PM
+To: t_yaguchi@mtj.biglobe.ne.jp; gonnemomo@yahoo.co.jp; '櫛田和光' <kazk408@gmail.com>
+Cc: Satoshi Hada (羽田 智) <satoshi_hada@jp.honda>; 'Tomiji Sugimoto' <tomiji.sugimoto@tmg-n.com>; Masayo Arai (荒井 雅代) <masayo_arai@jp.honda>; JUN TOMIZAWA (冨沢 潤) <jun_tomizawa@jp.honda>; Kazuyuki Maruyama (丸山 一幸) <kazuyuki_maruyama@jp.honda>; SHUICHI KATO (加藤 秀一) <shuichi_kato@jp.honda>; YUJI SAITO (斉藤 祐司) <yuji_saito@jp.honda>; YUTAKA KAMATA (鎌田 豊) <yutaka_kamata@jp.honda>; flyingapple@i.softbank.jp; katom91649@gmail.com; kzy.tamura@gmail.com; m-tsuge0392@xb4.so-net.ne.jp; mikoba254@gmail.com; mm113.green@gmail.com; toshio.yokoyama@aist.go.jp; y-saito@its-jp.org; yoshi.0611yama@ezweb.ne.jp; youmh1@docomo.ne.jp; '里村昌史' <masashi.satomura.01@gmail.com>
+Subject: RE: 近況報告の代わりに
+ 
+渋川です。
+杉本さんからは一番遠い席でしたが 昨晩より少々喉がイガイガかなと思っていました。
+ 
+メール拝受後すぐに退社し在宅に切り替えましたが今度は熱が上がってきています。
+35.9⇨37.2度
+早々に受診して検査を受けないとですね。
+ 
+渋川
+From: t_yaguchi@mtj.biglobe.ne.jp <t_yaguchi@mtj.biglobe.ne.jp> 
+Sent: Thursday, July 14, 2022 4:58 PM
+To: gonnemomo@yahoo.co.jp; '櫛田和光' <kazk408@gmail.com>
+Cc: Satoshi Hada (羽田 智) <satoshi_hada@jp.honda>; 'Tomiji Sugimoto' <tomiji.sugimoto@tmg-n.com>; Masayo Arai (荒井 雅代) <masayo_arai@jp.honda>; JUN TOMIZAWA (冨沢 潤) <jun_tomizawa@jp.honda>; Kazuyuki Maruyama (丸山 一幸) <kazuyuki_maruyama@jp.honda>; SHUICHI KATO (加藤 秀一) <shuichi_kato@jp.honda>; Takero Shibukawa (澁川 岳郎) <takero_shibukawa@jp.honda>; YUJI SAITO (斉藤 祐司) <yuji_saito@jp.honda>; YUTAKA KAMATA (鎌田 豊) <yutaka_kamata@jp.honda>; flyingapple@i.softbank.jp; katom91649@gmail.com; kzy.tamura@gmail.com; m-tsuge0392@xb4.so-net.ne.jp; mikoba254@gmail.com; mm113.green@gmail.com; toshio.yokoyama@aist.go.jp; y-saito@its-jp.org; yoshi.0611yama@ezweb.ne.jp; youmh1@docomo.ne.jp; '里村昌史' <masashi.satomura.01@gmail.com>
+Subject: RE: 近況報告の代わりに
+ 
+矢口です。
+ 
+昨日から、発熱は無いのですが何だか風邪っぽいので、もしやと思っていました。
+隣が杉本さん、向かいが秋月さん、となれば間違いなく濃厚接触者ですね。
+ 
+明日から富山帰省の予定でしたが、念のため全キャンセルしました。
+今後変化があればお知らせします。
+ 
+皆様もお大事に。
+ 
+From: gonnemomo@yahoo.co.jp <gonnemomo@yahoo.co.jp> 
+Sent: Thursday, July 14, 2022 4:48 PM
+To: 櫛田和光 <kazk408@gmail.com>
+Cc: Satoshi Hada <satoshi_hada@jp.honda>; Tomiji Sugimoto <tomiji.sugimoto@tmg-n.com>; Masayo Arai <masayo_arai@jp.honda>; JUN TOMIZAWA <jun_tomizawa@jp.honda>; Kazuyuki Maruyama <kazuyuki_maruyama@jp.honda>; SHUICHI KATO <shuichi_kato@jp.honda>; Takero Shibukawa <takero_shibukawa@jp.honda>; YUJI SAITO <yuji_saito@jp.honda>; YUTAKA KAMATA <yutaka_kamata@jp.honda>; flyingapple@i.softbank.jp; katom91649@gmail.com; kzy.tamura@gmail.com; m-tsuge0392@xb4.so-net.ne.jp; mikoba254@gmail.com; mm113.green@gmail.com; t_yaguchi@mtj.biglobe.ne.jp; toshio.yokoyama@aist.go.jp; y-saito@its-jp.org; yoshi.0611yama@ezweb.ne.jp; youmh1@docomo.ne.jp; 里村昌史 <masashi.satomura.01@gmail.com>
+Subject: Re: 近況報告の代わりに
+ 
+櫛田さん
+ 
+早速ありがとうございます！
+折の機会なのでゆっくり休みまーす♪
+ 
+秋月
+
+iPhoneから送信
+ 
+
+2022/07/14 16:41、櫛田和光 <kazk408@gmail.com>のメール:
+
+﻿
+杉本さん、秋月さん
+ 
+心配です。症状が軽く済めばいいですが、熱が39度近くあると辛いことと思います。
+私は今のところ発熱、倦怠感もなく無症状ですが、念のためアマゾンで検査キットを手配しました。明日届くので、わかり次第結果をお知らせします。
+ 
+お二人ともゆっくりと休養してください。
+お大事に。
+ 
+櫛田和光
+ 
+
+2022/07/14 15:48、gonnemomo@yahoo.co.jpのメール:
+ 
+皆さん
+ 
+私も同じ症状で昨夜から熱も出て、現在38.7℃です。乾いた咳も出ます。先ほど藤沢市内で検査を受けましたが結果は明日夕刻だそうです。
+急ぎお知らせまで。
+ 
+秋月
+
+</p>
+
+
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
