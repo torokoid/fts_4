@@ -105,7 +105,7 @@ body::before {
 
 <br><br><br><br>
 
-<div style=" background-color:white; color:black;">
+<div style=" background-color:green;">
 
 <p>この会合の後、クラスター発生しました。<br>以下、杉本さんからのメールとその続報です。</p>
 <br><br>
