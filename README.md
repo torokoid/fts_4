@@ -104,7 +104,7 @@ body::before {
 <a href="20220711_044.JPG" data-lightbox="abc"><img src="20220711_044.JPG" alt="サンプル画像" width="900" /></a>
 
 <br><br><br><br>
-
+<div style="background-color:rgb(255,255,255,0.3);”>
 <p>この会合の後、クラスター発生しました。<br>以下、杉本さんからのメールとその続報です。</p>
 <br><br>
 <p>
@@ -262,7 +262,7 @@ iPhoneから送信<br><br>
 秋月<br><br>
 
 </p>
-
+</div>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
