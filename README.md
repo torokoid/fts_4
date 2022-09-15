@@ -12,6 +12,7 @@ color: #fffafa;
 font-size: 1.5em;
  }
 <!--
+ .silver {color:#c0c0c0;}
  .red {color:#ff0000;}
  .grey {color:#999999;}
  .snow {color:#fffafa;}
@@ -268,7 +269,7 @@ iPhoneから送信<br><br>
 
 <br><br>
 
-<div style=" background-color:yellow;">
+<div style=" background-color:silver;">
 
 <p>一連のお知らせの後、雅代様から続報です。</p>
 <br><br>
