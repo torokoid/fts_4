@@ -243,7 +243,7 @@ iPhoneから送信<br><br>
 
 2022/07/14 16:41、櫛田和光 <kazk408@gmail.com>のメール:<br><br>
 
-﻿
+
 杉本さん、秋月さん<br><br>
  
 心配です。症状が軽く済めばいいですが、熱が39度近くあると辛いことと思います。<br>
@@ -268,12 +268,95 @@ iPhoneから送信<br><br>
 </div>
 
 <br><br>
+	
+	
+	
+	
 
 <div style=" background-color:silver;">
 
 <p>一連のお知らせの後、雅代様から続報です。</p>
 <br><br>
 <p>
+	
+From: Kazuyuki Maruyama (丸山 一幸) <kazuyuki_maruyama@jp.honda> <br>
+Sent: Thursday, September 15, 2022 1:50 PM<br>
+To: Masayo Arai (荒井 雅代) <masayo_arai@jp.honda>; SHUICHI KATO (加藤 秀一) <shuichi_kato@jp.honda>; Satoshi Hada (羽田 智) <satoshi_hada@jp.honda>; <br>gonnemomo@yahoo.co.jp; kato masaaki <katom91649@gmail.com><br>
+Cc: Tomiji Sugimoto <tomiji.sugimoto@tmg-n.com>; JUN TOMIZAWA (冨沢 潤) <jun_tomizawa@jp.honda>; Takero Shibukawa (澁川 岳郎) <takero_shibukawa@jp.honda>;<br> YUJI SAITO (斉藤 祐司) <yuji_saito@jp.honda>; YUTAKA KAMATA (鎌田 豊) <yutaka_kamata@jp.honda>; flyingapple@i.softbank.jp; kazk408@gmail.com; <br>kzy.tamura@gmail.com; m-tsuge0392@xb4.so-net.ne.jp; mikoba254@gmail.com; mm113.green@gmail.com; t_yaguchi@mtj.biglobe.ne.jp; toshio.yokoyama@aist.go.jp; y-saito@its-jp.org; <br>yoshi.0611yama@ezweb.ne.jp; youmh1@docomo.ne.jp; 里村昌史 <masashi.satomura.01@gmail.com><br>
+Subject: RE: 近況報告の代わりに<br><br>
+
+丸山です．<br><br>
+
+セーフティプランのほうも，入ってるひとはお忘れなく．<br>
+加入していた人の正当な権利なので遠慮する必要はありません<br>
+（虚偽の申告はアウトですよ）<br><br>
+
+私のほうは申請しただけでまだ結果が出てないのでどれくらい出るのかわかりませんが<br>
+満額出たら家族全員分なので結構な額になりそうです．<br>
+ちょっと楽しみです．<br><br>
+
+結果が出たら皆さんと共有しますね．<br><br>
+
+
+From: Masayo Arai (荒井 雅代) <masayo_arai@jp.honda> <br>
+Sent: Thursday, September 15, 2022 1:17 PM<br>
+To: SHUICHI KATO (加藤 秀一) <shuichi_kato@jp.honda>; Kazuyuki Maruyama (丸山 一幸) <kazuyuki_maruyama@jp.honda>; Satoshi Hada (羽田 智) <satoshi_hada@jp.honda>; <br>gonnemomo@yahoo.co.jp; kato masaaki <katom91649@gmail.com><br>
+Cc: Tomiji Sugimoto <tomiji.sugimoto@tmg-n.com>; JUN TOMIZAWA (冨沢 潤) <jun_tomizawa@jp.honda>; Takero Shibukawa (澁川 岳郎) <takero_shibukawa@jp.honda>;<br> YUJI SAITO (斉藤 祐司) <yuji_saito@jp.honda>; YUTAKA KAMATA (鎌田 豊) <yutaka_kamata@jp.honda>; flyingapple@i.softbank.jp; kazk408@gmail.com; kzy.tamura@gmail.com; <br>m-tsuge0392@xb4.so-net.ne.jp; mikoba254@gmail.com; mm113.green@gmail.com; t_yaguchi@mtj.biglobe.ne.jp; toshio.yokoyama@aist.go.jp; y-saito@its-jp.org; <br>yoshi.0611yama@ezweb.ne.jp; youmh1@docomo.ne.jp; 里村昌史 <masashi.satomura.01@gmail.com><br>
+Subject: RE: 近況報告の代わりに<br><br>
+
+加藤さん<br><br>
+
+お世話様です。<br>
+先ほど開発さん行ってきました。<br>
+ココアや保健所（東京都多摩エリア）の自宅療養開始日？が表記されている画面をスクリーンショットして<br>
+印刷して添付すればOKらしいです。<br><br>
+
+荒井雅代<br><br>
+
+From: SHUICHI KATO (加藤 秀一) <shuichi_kato@jp.honda> <br>
+Sent: Thursday, September 15, 2022 1:02 PM<br>
+To: Kazuyuki Maruyama (丸山 一幸) <kazuyuki_maruyama@jp.honda>; Masayo Arai (荒井 雅代) <masayo_arai@jp.honda>; Satoshi Hada (羽田 智) <satoshi_hada@jp.honda>; <br>gonnemomo@yahoo.co.jp; kato masaaki <katom91649@gmail.com><br>
+Cc: Tomiji Sugimoto <tomiji.sugimoto@tmg-n.com>; JUN TOMIZAWA (冨沢 潤) <jun_tomizawa@jp.honda>; Takero Shibukawa (澁川 岳郎) <takero_shibukawa@jp.honda>;<br> YUJI SAITO (斉藤 祐司) <yuji_saito@jp.honda>; YUTAKA KAMATA (鎌田 豊) <yutaka_kamata@jp.honda>; flyingapple@i.softbank.jp; kazk408@gmail.com; kzy.tamura@gmail.com; <br>m-tsuge0392@xb4.so-net.ne.jp; mikoba254@gmail.com; mm113.green@gmail.com; t_yaguchi@mtj.biglobe.ne.jp; toshio.yokoyama@aist.go.jp; y-saito@its-jp.org; <br>yoshi.0611yama@ezweb.ne.jp; youmh1@docomo.ne.jp; 里村昌史 <masashi.satomura.01@gmail.com><br>
+Subject: RE: 近況報告の代わりに<br>
+
+丸山さん<br>
+お疲れ様です。<br><br>
+
+ご教示ありがとうございます。<br><br>
+
+加藤も、少し前に知り、<br>
+ホンダ開発さんで申請用紙をもらいました。<br>
+証明書を役所に申請するにあたって、第7波絶頂時を避けて、と思ってましたが、そろそろ良いですね。<br><br>
+
+気が付かないうちに半年なんてあっという間ですから、<br>
+思いださせて下さって助かりました。<br>
+ありがとうございました。<br><br>
+
+加藤＠HM2R営業部マーケティング企画課プロダクト・ブランディングGR（8724421）<br><br><br>
+
+	
+	
+
+From: Masayo Arai (荒井 雅代) <masayo_arai@jp.honda> <br>
+Sent: Thursday, September 15, 2022 11:30 AM<br>
+To: Tomiji Sugimoto <tomiji.sugimoto@tmg-n.com><br>
+Cc: JUN TOMIZAWA (冨沢 潤) <jun_tomizawa@jp.honda>; Kazuyuki Maruyama (丸山 一幸) <kazuyuki_maruyama@jp.honda>; SHUICHI KATO (加藤 秀一) <shuichi_kato@jp.honda>; <br>Satoshi Hada (羽田 智) <satoshi_hada@jp.honda>; Takero Shibukawa (澁川 岳郎) <takero_shibukawa@jp.honda>; YUJI SAITO (斉藤 祐司) <yuji_saito@jp.honda>;<br> YUTAKA KAMATA (鎌田 豊) <yutaka_kamata@jp.honda>; flyingapple@i.softbank.jp; gonnemomo@yahoo.co.jp; kato masaaki <katom91649@gmail.com>; kazk408@gmail.com; <br>kzy.tamura@gmail.com; m-tsuge0392@xb4.so-net.ne.jp; mikoba254@gmail.com; mm113.green@gmail.com; t_yaguchi@mtj.biglobe.ne.jp; toshio.yokoyama@aist.go.jp;<br> y-saito@its-jp.org; yoshi.0611yama@ezweb.ne.jp; youmh1@docomo.ne.jp; 里村昌史 <masashi.satomura.01@gmail.com><br>
+Subject: RE: 近況報告の代わりに<br><br>
+
+富史さん<br><br>
+
+ありがとうございます。<br>
+本当に感染源わからないですよね。<br>
+私は、金8月26日（金）の夕方に発熱したのですが<br>
+水曜日に飲みに行った人と木曜日に同じ会議室にいた人に慌てて連絡しました。<br>
+ラッキーなことに、彼らは感染していませんでした。<br>
+では、どこで感染したのか？<br>
+駅のホームや改札、電車の中ぐらいしか・・・<br>
+本当に不思議ですよね。<br><br>
+
+荒井雅代<br><br><br>
+
+	
 
 From: gonnemomo@yahoo.co.jp <gonnemomo@yahoo.co.jp> <br>
 Sent: Thursday, September 15, 2022 11:55 AM<br>
