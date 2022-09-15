@@ -275,7 +275,75 @@ iPhoneから送信<br><br>
 <br><br>
 <p>
 
+From: gonnemomo@yahoo.co.jp <gonnemomo@yahoo.co.jp> <br>
+Sent: Thursday, September 15, 2022 11:55 AM<br>
+To: Masayo Arai (荒井 雅代) <masayo_arai@jp.honda><br>
+Cc: Kazuyuki Maruyama (丸山 一幸) <kazuyuki_maruyama@jp.honda>; Satoshi Hada (羽田 智) <satoshi_hada@jp.honda>; kato masaaki <katom91649@gmail.com>;<br> Tomiji Sugimoto <tomiji.sugimoto@tmg-n.com>; JUN TOMIZAWA (冨沢 潤) <jun_tomizawa@jp.honda>; SHUICHI KATO (加藤 秀一) <shuichi_kato@jp.honda>; <br>Takero Shibukawa (澁川 岳郎) <takero_shibukawa@jp.honda>; YUJI SAITO (斉藤 祐司) <yuji_saito@jp.honda>; YUTAKA KAMATA (鎌田 豊) <yutaka_kamata@jp.honda>; <br>flyingapple@i.softbank.jp; kazk408@gmail.com; kzy.tamura@gmail.com; m-tsuge0392@xb4.so-net.ne.jp; mikoba254@gmail.com; mm113.green@gmail.com; t_yaguchi@mtj.biglobe.ne.jp; <br>toshio.yokoyama@aist.go.jp; y-saito@its-jp.org; yoshi.0611yama@ezweb.ne.jp; youmh1@docomo.ne.jp; 里村昌史 <masashi.satomura.01@gmail.com><br>
+Subject: Re: 近況報告の代わりに<br><br>
 
+羽田さん<br><br>
+
+アーカイブのアップデートありがとうございます。<br>
+楽しみに拝見します。<br>
+雅代さん。あの時は全然大丈夫だったのにねぇ。<br>
+軽症とはいえ喉の痛みはさぞ鬱陶しかったでしょう。<br>
+免疫力の変化か何か関係あるんでしょうか。<br>
+杉本さんが一番被害甚大だったようですね。<br>
+家内の友人でこの夏はコロナで終わったという人もいました。<br><br>
+
+見舞金の話が出ていましたが、生命保険会社からも入院費が出ますよ。<br>
+ただし自宅療養証明が必要で、厚労省のmy-hersys の操作に苦労します。<br>
+結局藤沢市役所に依頼したら2ヶ月かかるそうです。<br>
+お早めに。<br><br>
+
+秋月<br><br>
+
+iPhoneから送信<br><br>
+
+
+2022/09/15 11:37、Masayo Arai <masayo_arai@jp.honda>のメール:<br><br>
+ 
+丸山さん<br><br>
+ 
+本当ですか！<br>
+早速、ホンダ開発に聞きに行ってみます。<br>
+たまたま自宅療養中に保険会社から加入保険の内容確認で面談したいと言われて、<br>
+面倒だったから「私コロナ感染者だから会えません」と言って断ったら<br>
+「保険でるので申請しますか」と聞かれました。<br>
+知らないと損すること多いです。。。。<br><br>
+ 
+荒井雅代<br><br>
+ 
+ 
+From: Kazuyuki Maruyama (丸山 一幸) <kazuyuki_maruyama@jp.honda> <br>
+Sent: Thursday, September 15, 2022 11:12 AM<br>
+To: Masayo Arai (荒井 雅代) <masayo_arai@jp.honda>; Satoshi Hada (羽田 智) <satoshi_hada@jp.honda>; gonnemomo@yahoo.co.jp; kato masaaki <katom91649@gmail.com><br>
+Cc: Tomiji Sugimoto <tomiji.sugimoto@tmg-n.com>; JUN TOMIZAWA (冨沢 潤) <jun_tomizawa@jp.honda>; SHUICHI KATO (加藤 秀一) <shuichi_kato@jp.honda>; <br>Takero Shibukawa (澁川 岳郎) <takero_shibukawa@jp.honda>; YUJI SAITO (斉藤 祐司) <yuji_saito@jp.honda>; YUTAKA KAMATA (鎌田 豊) <yutaka_kamata@jp.honda>; <br>flyingapple@i.softbank.jp; kazk408@gmail.com; kzy.tamura@gmail.com; m-tsuge0392@xb4.so-net.ne.jp; mikoba254@gmail.com; mm113.green@gmail.com; <br>t_yaguchi@mtj.biglobe.ne.jp; toshio.yokoyama@aist.go.jp; y-saito@its-jp.org; yoshi.0611yama@ezweb.ne.jp; youmh1@docomo.ne.jp; 里村昌史 <masashi.satomura.01@gmail.com><br>
+Subject: RE: 近況報告の代わりに<br><br>
+ 
+皆様，<br>
+丸山です．<br>
+おせわになります．<br><br>
+ 
+ちょっと情報共有です．<br>
+新型コロナに感染した場合，10日間自宅待機になりますが，<br>
+入院同等のあつかいになり，ホンダの互助会の見舞金が出るそうです．<br>
+一口当たり3000円です．<br><br>
+ 
+本田開発に行けば申請用紙をもらえます．<br>
+申請は罹患から半年以内だそうです．<br>
+証明書も必要です．お住いの市区役所に申請すれば出してもらえます．<br><br>
+ 
+後，セーフティプランに入ってる人はこちらのほうも出るそうです．<br><br>
+ 
+ちなみに，私の方も7月末に小学生の娘がもらってきてそこから家庭内感染に発展しました．<br>
+私は互助会8口入っています．現在互助会見舞金の申請をして回答待ちです．<br><br>
+ 
+もうご存じかもしれませんが，情報共有でした．<br><br><br>
+
+	
+	
+	
 
 From: Tomiji Sugimoto <tomiji.sugimoto@tmg-n.com> <br>
 Sent: Thursday, September 15, 2022 9:44 AM<br>
