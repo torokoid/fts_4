@@ -266,6 +266,63 @@ iPhoneから送信<br><br>
 </p>
 </div>
 
+<br><br>
+
+<div style=" background-color:yello;">
+
+<p>一連のお知らせの後、雅代様から続報です。</p>
+<br><br>
+<p>
+From: Satoshi Hada (羽田 智) <br>
+Sent: Thursday, September 15, 2022 9:40 AM<br>
+To: Masayo Arai (荒井 雅代) <masayo_arai@jp.honda>; gonnemomo@yahoo.co.jp; kato masaaki <katom91649@gmail.com><br>
+Cc: Tomiji Sugimoto <tomiji.sugimoto@tmg-n.com>; JUN TOMIZAWA (冨沢 潤) <jun_tomizawa@jp.honda>; Kazuyuki Maruyama (丸山 一幸) <kazuyuki_maruyama@jp.honda>;<br> SHUICHI KATO (加藤 秀一) <shuichi_kato@jp.honda>; Takero Shibukawa (澁川 岳郎) <takero_shibukawa@jp.honda>; YUJI SAITO (斉藤 祐司) <yuji_saito@jp.honda>; <br>YUTAKA KAMATA (鎌田 豊) <yutaka_kamata@jp.honda>; flyingapple@i.softbank.jp; kazk408@gmail.com; kzy.tamura@gmail.com; m-tsuge0392@xb4.so-net.ne.jp; <br>mikoba254@gmail.com; mm113.green@gmail.com; t_yaguchi@mtj.biglobe.ne.jp; toshio.yokoyama@aist.go.jp; y-saito@its-jp.org; yoshi.0611yama@ezweb.ne.jp; youmh1@docomo.ne.jp;<br> 里村昌史 <masashi.satomura.01@gmail.com><br>
+Subject: RE: 近況報告の代わりに<br><br>
+
+雅代様<br>
+陽性ですか～！<br>
+浜松エリアに出向した仲間が感染して、のどがすごく痛いと言っていたのを思い出しました。<br>
+一連のメールの最下段に、このメールも追記しておきますね。<br>
+東京の感染者数が減ってきていますが、栃木県は1,000人台を維持し続けているので気を付けますね。<br>
+ではお大事に！<br>
+羽田<br><br>
+
+From: Masayo Arai (荒井 雅代) <masayo_arai@jp.honda> <br>
+Sent: Thursday, September 15, 2022 9:33 AM<br>
+To: Satoshi Hada (羽田 智) <satoshi_hada@jp.honda>; gonnemomo@yahoo.co.jp; kato masaaki <katom91649@gmail.com><br>
+Cc: Tomiji Sugimoto <tomiji.sugimoto@tmg-n.com>; JUN TOMIZAWA (冨沢 潤) <jun_tomizawa@jp.honda>; Kazuyuki Maruyama (丸山 一幸) <kazuyuki_maruyama@jp.honda>;<br> SHUICHI KATO (加藤 秀一) <shuichi_kato@jp.honda>; Takero Shibukawa (澁川 岳郎) <takero_shibukawa@jp.honda>; YUJI SAITO (斉藤 祐司) <yuji_saito@jp.honda>;<br> YUTAKA KAMATA (鎌田 豊) <yutaka_kamata@jp.honda>; flyingapple@i.softbank.jp; kazk408@gmail.com; kzy.tamura@gmail.com; m-tsuge0392@xb4.so-net.ne.jp;<br> mikoba254@gmail.com; mm113.green@gmail.com; t_yaguchi@mtj.biglobe.ne.jp; toshio.yokoyama@aist.go.jp; y-saito@its-jp.org; yoshi.0611yama@ezweb.ne.jp; youmh1@docomo.ne.jp;<br> 里村昌史 <masashi.satomura.01@gmail.com><br>
+Subject: RE: 近況報告の代わりに<br><br>
+
+羽田さん<br>
+いつもありがとうございます。<br>
+私もとうとう8月末にコロナ陽性になりました。<br>
+症状は、37度台で軽症、そのかわりのどがめちゃめちゃ痛かったです。<br>
+いつ、どこで感染するかわかりませんので<br>
+羽田さんも気を付けてくださいねー。<br><br>
+
+荒井雅代<br><br>
+
+From: Satoshi Hada (羽田 智) <satoshi_hada@jp.honda> <br>
+Sent: Wednesday, September 14, 2022 10:11 AM<br>
+To: gonnemomo@yahoo.co.jp; kato masaaki <katom91649@gmail.com><br>
+Cc: Tomiji Sugimoto <tomiji.sugimoto@tmg-n.com>; Masayo Arai (荒井 雅代) <masayo_arai@jp.honda>; JUN TOMIZAWA (冨沢 潤) <jun_tomizawa@jp.honda>; <br>Kazuyuki Maruyama (丸山 一幸) <kazuyuki_maruyama@jp.honda>; SHUICHI KATO (加藤 秀一) <shuichi_kato@jp.honda>; Takero Shibukawa (澁川 岳郎) <takero_shibukawa@jp.honda>; <br>YUJI SAITO (斉藤 祐司) <yuji_saito@jp.honda>; YUTAKA KAMATA (鎌田 豊) <yutaka_kamata@jp.honda>; flyingapple@i.softbank.jp; kazk408@gmail.com; kzy.tamura@gmail.com;<br> m-tsuge0392@xb4.so-net.ne.jp; mikoba254@gmail.com; mm113.green@gmail.com; t_yaguchi@mtj.biglobe.ne.jp; toshio.yokoyama@aist.go.jp; y-saito@its-jp.org; <br>yoshi.0611yama@ezweb.ne.jp; youmh1@docomo.ne.jp; 里村昌史 <masashi.satomura.01@gmail.com><br>
+Subject: RE: 近況報告の代わりに<br><br>
+
+皆さま<br><br>
+
+クラスター発生から2か月が過ぎ、体調も回復されていることと思います。<br>
+こんなこともあったな～と胸をなでおろせるよう、一連のメールを、写真のHPに追記しました。<br>
+全てのメールを網羅したつもりですが、抜けもれておりましたらご連絡いただければ追記します。<br>
+HPは以下のリンク、写真に続く最下段よりご覧ください。<br>
+https://torokoid.github.io/fts_4/<br><br>
+
+以上、簡単ですが。<br>
+これからも、皆様の健康とご多幸をお祈り申し上げます。<br><br>
+
+羽田（開発戦略統括部 開発企画部 法規技術情報課、外線:080-4929-2604、内線:87-7-3351）<br>
+</p>
+</div>
+
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
