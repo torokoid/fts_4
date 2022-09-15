@@ -268,11 +268,33 @@ iPhoneから送信<br><br>
 
 <br><br>
 
-<div style=" background-color:yello;">
+<div style=" background-color:yellow;">
 
 <p>一連のお知らせの後、雅代様から続報です。</p>
 <br><br>
 <p>
+
+
+
+From: Tomiji Sugimoto <tomiji.sugimoto@tmg-n.com> <br>
+Sent: Thursday, September 15, 2022 9:44 AM<br>
+To: Masayo Arai (荒井 雅代) <masayo_arai@jp.honda><br>
+Cc: JUN TOMIZAWA (冨沢 潤) <jun_tomizawa@jp.honda>; Kazuyuki Maruyama (丸山 一幸) <kazuyuki_maruyama@jp.honda>; SHUICHI KATO (加藤 秀一) <shuichi_kato@jp.honda>; <br>Satoshi Hada (羽田 智) <satoshi_hada@jp.honda>; Takero Shibukawa (澁川 岳郎) <takero_shibukawa@jp.honda>; Tomiji Sugimoto <tomiji.sugimoto@tmg-n.com>; <br>YUJI SAITO (斉藤 祐司) <yuji_saito@jp.honda>; YUTAKA KAMATA (鎌田 豊) <yutaka_kamata@jp.honda>; flyingapple@i.softbank.jp; gonnemomo@yahoo.co.jp; <br>kato masaaki <katom91649@gmail.com>; kazk408@gmail.com; kzy.tamura@gmail.com; m-tsuge0392@xb4.so-net.ne.jp; mikoba254@gmail.com; mm113.green@gmail.com;<br> t_yaguchi@mtj.biglobe.ne.jp; toshio.yokoyama@aist.go.jp; y-saito@its-jp.org; yoshi.0611yama@ezweb.ne.jp; youmh1@docomo.ne.jp; <br>里村昌史 <masashi.satomura.01@gmail.com><br>
+Subject: Re: 近況報告の代わりに<br><br>
+
+雅代さん<br><br>
+
+軽症で良かったですね！<br>
+私はその後、気だるさ、息苦しさなど後遺症があり、回復に時間を要しましたが、やっとコロナ感染前に戻った様です。<br>
+本当に感染源がわからないものですね。<br>
+感染後、私も心配になり、前日個室で会食をしていた娘や母親たち、そして前々日まで近接接近をしていた人たちや一緒に旅行していた友人にはまったく感染者は出ていませんでした。<br>
+不思議です。<br><br>
+
+何れにしても今後も気を付けましょう。<br><br>
+
+杉本<br><br><br>
+
+
 From: Satoshi Hada (羽田 智) <br>
 Sent: Thursday, September 15, 2022 9:40 AM<br>
 To: Masayo Arai (荒井 雅代) <masayo_arai@jp.honda>; gonnemomo@yahoo.co.jp; kato masaaki <katom91649@gmail.com><br>
